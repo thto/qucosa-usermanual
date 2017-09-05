@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsverzeichnis
 
 ## Handbuch
 
@@ -17,4 +17,6 @@
 
 * [Glossar](reference/GLOSSARY.md)
 * [FAQ und Anwendungsfälle](reference/faq-and-sample-cases.md)
+
+
 
