@@ -1,4 +1,5 @@
 # Einführung
 
-In diesem Kapitel werden die Kernfunktionen, Zielgruppen und zukünftig geplante Weiterentwicklungen von Qucosa beschrieben.
+In diesem Kapitel wird beschrieben, wie und für wen das Handbuch zu benutzen ist. Struktur, Aufbau und besondere Kennzeichnungen \(z.B. Icons\) werden erläutert.  
+
 
