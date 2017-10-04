@@ -7,7 +7,7 @@
 * [Einführung](introduction.md)
 * [Metadatenmodell](metadata.md)
 * [Schnittstellen](interfaces.md)
-* [Nutzersicht - Konfiguration und Workflow](user perspective.md)
+* [Frontend und Workflow - aus Nutzersicht](user perspective.md)
 * [Bearbeitersicht - Backoffice und Workflow](backoffice and configuration.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
 * [Mandantenkonfiguration](tenant-configuration.md)

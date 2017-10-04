@@ -1,0 +1,7 @@
+| Feldgruppe | Felder/ Anzeigename | Verwendung |
+| :--- | :--- | :--- |
+|  |  |  |
+|  |  |  |
+
+
+
