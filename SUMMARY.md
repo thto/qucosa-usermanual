@@ -11,7 +11,11 @@
 * [Bearbeitersicht - Backoffice und Workflow](backoffice and configuration.md)
   * [Login und Zugang zum Backoffice](backoffice and configuration.md)
   * [Die Bedeutung der Schaltflächen](backoffice and configuration.md)
+  * [Felder und Eingaberegeln](backoffice and configuration.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
+  * [Webseiten anlegen und bearbeiten](website-editing-typo3.md)
+  * [Vorschau anzeigen](website-editing-typo3.md)
+  * [Übersetzungen anlegen](website-editing-typo3.md)
 
 ## Nachschlagewerk
 
