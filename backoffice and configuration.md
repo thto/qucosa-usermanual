@@ -1,8 +1,7 @@
 * ##### [Login und Zugang zum Backoffice](#login-und-zugang-zum-backoffice)
 
   * ##### [Start Backoffice TYPO3](#start-backoffice-typo3)
-
-* ##### Die Bedeutung der Schaltflächen
+* ##### [Die Bedeutung der Schaltflächen](/backoffice and configuration.md)
 * ##### Veröffentlichen von Dokumenten
 * ##### Bearbeiten von bereits veröffentlichten Dokumenten
 
@@ -14,14 +13,11 @@ Dieses ist über folgenden Link:
 
 oder über die Qucosa-Webseite zu erreichen:
 
-  
-
-
 #### Start Backoffice TYPO3
 
 * linke Menüleiste - Qucosa - Manager anklicken
 * mittlere Menüleiste - gewünschten Mandantenbereich anklicken
-* richtig angemeldet ist man, wenn im rechten Anzeigefeld die Meldung 
+* richtig angemeldet ist man, wenn im rechten Anzeigefeld die Meldung
 
   ![](file:///C:/Users/hoericht/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png "\(Warnung\)") **Es wurde kein gültiger Mandantenordner ausgewählt! **
 
@@ -29,13 +25,7 @@ nicht mehr angezeigt wird.
 
 * um möglichst viel Platz im rechten Anzeigefeld zu haben, kann man die beiden Menüleisten links zusammenschieben, die mittlere kann auch ausgeblendet werden
 
- 
-
-
-
-## Die Bedeutung der Schaltflächen
-
-
+## [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
 
 | **Symbol/Button** | **Wo?** | **Aktion** |  |
 | :---: | :---: | :---: | :---: |
