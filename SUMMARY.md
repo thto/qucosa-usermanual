@@ -9,7 +9,6 @@
 * [Schnittstellen](interfaces.md)
 * [Frontend und Workflow - aus Nutzersicht](user perspective.md)
 * [Bearbeitersicht - Backoffice und Workflow](backoffice and configuration.md)
-  * [Zugang und Aufruf der "Manager"-Funktion](access_and_login.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
 
 ## Nachschlagewerk
