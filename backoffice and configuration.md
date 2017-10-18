@@ -14,6 +14,8 @@ Dieses ist über folgenden Link:
 
 oder über die Qucosa-Webseite zu erreichen:
 
+![](/assets/Qucosa_Administrationsbereich_Pfeil.png)
+
 #### Start Backoffice TYPO3
 
 * linke Menüleiste - Qucosa - Manager anklicken
@@ -45,11 +47,7 @@ nicht mehr angezeigt wird.
 | ![](file:///C:/Users/hoericht/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)![](file:///C:/Users/hoericht/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png) | Dokumentenliste | Abschließen der Korrektur eines bereits veröffentlichten Datensatzes | Kopie des Datensatzes wurde im lokalen Arbeitsbereich bearbeitet-                         Korrekturen werden ins Repository übertragen.Dokument wird nicht mehr im lokalen Arbeitsbereich gelistet |
 | ![](file:///C:/Users/hoericht/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)![](file:///C:/Users/hoericht/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png) | Datensatz im Editiermodus | Markieren eines Datensatzes als "Im Repository Löschen" | Schaltfläche steht nur für Datensätze zur Verfügung, die bereits freigeschaltet wurden, sich im Repository befinden und für die eine Kopie zur Aktualisierung in den lokalen Arbeitsbereich geholt wurde |
 
-
-
 ## [Felder und Eingaberegeln](/backoffice and configuration.md)
-
-
 
 | **Dokumentenarten** | **Seite** | **Feldgruppe / Felder** | **Beschreibung** |
 | :--- | :--- | :--- | :--- |
@@ -62,8 +60,6 @@ nicht mehr angezeigt wird.
 |  |  |  |  |
 |  | Quellenangaben | URN | in dieses Feld darf keine Qucosa-URN eingetragen werden |
 |  | Quellenangaben | Quellenangaben - Quelle \(Display Name: Quelle\) | in dieses Feld darf nichts eingetragen werden; es dient lediglich der Migration der Altdaten |
-
-
 
 
 
