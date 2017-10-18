@@ -9,6 +9,8 @@
 * [Schnittstellen](interfaces.md)
 * [Frontend und Workflow - aus Nutzersicht](user perspective.md)
 * [Bearbeitersicht - Backoffice und Workflow](backoffice and configuration.md)
+  * [Login und Zugang zum Backoffice](backoffice and configuration.md)
+  * [Die Bedeutung der Schaltflächen](backoffice and configuration.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
 
 ## Nachschlagewerk
