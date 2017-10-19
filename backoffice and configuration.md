@@ -1,10 +1,4 @@
-* ##### [Login und Zugang zum Backoffice](#login-und-zugang-zum-backoffice)
-
-  * ##### [Start Backoffice TYPO3](#start-backoffice-typo3)
-* ##### [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
-* ##### Veröffentlichen von Dokumenten
-* ##### Bearbeiten von bereits veröffentlichten Dokumenten
-* ##### [Felder und Eingaberegeln](#felder-und-eingaberegeln)
+##### 
 
 ## [Login und Zugang zum Backoffice](#login-und-zugang-zum-backoffice)
 
@@ -35,8 +29,6 @@ nicht mehr angezeigt wird.
 
 
 ## [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
-
-
 
 **Generell gilt:** Etwas heller eingefärbte Schaltflächen sind für den konkreten Anwendungsfall nicht relevant und können deshalb nicht bedient werden.
 
